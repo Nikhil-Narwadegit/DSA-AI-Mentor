@@ -17,12 +17,18 @@ An AI-powered DSA learning assistant built with LangGraph, Groq (Llama 3.1), and
 ## Setup
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/your-username/dsa-ai-mentor.git
 cd dsa-ai-mentor
 
+---
+
+## Setup
+
 Create a virtual environment and activate it:
 
+```bash
 python -m venv venv
 # Windows
 venv\Scripts\activate
